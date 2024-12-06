@@ -1,5 +1,5 @@
 # 📱 Create Responsive Navbar 
-## [Live Preview](https://youtu.be/HV5JKDCr3tY)
+## [Live Preview](https://amanayak.github.io/Create-Responsive-Navbar/)
 ### 📱 Create Responsive Navbar 
 
 - Responsive Navbar Using HTML CSS & JavaScript
